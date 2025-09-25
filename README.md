@@ -53,7 +53,7 @@ public class Member {
 ### 이미지 넣는법
 
 - ![강아지이미지]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZXzuuUOItEzX4U1SjmDt3oRPZfUkfgCfsc7wiYo9gZ7gAoEctJHCFx7Y5BVPit9TFTyghJzvHnSKJeZvu-vTcjP458wHMZDtvMxf3zDbB)
-- ![강아지이미지]( https://kr.pinterest.com/pin/2885187257510547/)
+- ![강아지이미지](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6iZRgyqGQS_J9-nhbO-O6ORBA864diR8Jkw&s)
 
 
 ### 표만들기
